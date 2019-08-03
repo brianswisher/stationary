@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `Stationary`,
     description: `Preview stations from TuneIn.`,
-    author: `@gatsbyjs`,
+    author: `brianswisher`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,

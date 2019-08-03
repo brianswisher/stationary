@@ -17,6 +17,7 @@ const Layout = ({ children }) => {
     query SiteTitleQuery {
       site {
         siteMetadata {
+          author
           title
         }
       }
@@ -38,7 +39,7 @@ const Layout = ({ children }) => {
         <footer>
           © {new Date().getFullYear()},
           {` `}
-          <a href="https://tunein.com/">{data.site.siteMetadata.title}</a>
+          <a href="http://brianswisher.com/">{data.site.siteMetadata.author}</a>
         </footer>
       </div>
     </>
