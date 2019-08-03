@@ -1,8 +1,16 @@
+.name {
+  color: white;
+}
+
 .station {
-  border: 1px solid black;
+  border: 1px solid #bbb;
   cursor: pointer;
   display: inline-block;
   margin: 10px;
   padding: 0;
   width: auto;
+}
+
+.description {
+  color: white;
 }

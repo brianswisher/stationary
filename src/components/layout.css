@@ -4,6 +4,8 @@ html {
   -webkit-text-size-adjust: 100%;
 }
 body {
+  background-color: #2b2b2b;
+  color: white;
   margin: 0;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -619,4 +621,8 @@ pre tt:after {
   html {
     font-size: 100%;
   }
+}
+footer,
+footer a {
+  color: #e0e0e0;
 }

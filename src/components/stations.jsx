@@ -15,11 +15,9 @@ const Stations = () => {
 
   const station = index && data[index];
 
-  console.log(station);
-
   return (
     <div>
-        <h2>
+        <h2 className="name">
           {station && station.name}
           {station &&
             <>
@@ -29,7 +27,7 @@ const Stations = () => {
           }
         </h2>
         {index && <audio controls src={station && station.streamUrl} />}
-        <p>{station && station.description}</p>
+        <p className="description">{station && station.description}</p>
         <div style={{maxWidth: 688, padding: 0}}>
           {data.map((s, i) => (
             <span key={s.id} style={{maxWidth: 147}}>
