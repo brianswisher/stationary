@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import Tags from './tags';
+import Meta from './meta';
 import "./stations.css"
 
 const Stations = () => {
@@ -20,7 +21,12 @@ const Stations = () => {
     <div>
         <h2>
           {station && station.name}
-          {station && <Tags data={station.tags} />}
+          {station &&
+            <>
+              <Tags data={station.tags} />
+              <Meta popularity={station.popularity} reliability={station.reliability} />
+            </>
+          }
         </h2>
         {index && <audio controls src={station && station.streamUrl} />}
         <p>{station && station.description}</p>

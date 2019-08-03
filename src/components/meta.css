@@ -1,0 +1,20 @@
+.meta {
+  margin-left: 10px;
+}
+
+.badge {
+  background-color: gray;
+  border-radius: 10px;
+  color: white;
+  font-size: 12px;
+  margin-right: 10px;
+  padding: 4px;
+}
+
+.popular {
+  background-color: green;
+}
+
+.reliable {
+  background-color: black;
+}
