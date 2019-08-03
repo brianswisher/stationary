@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Tags renders correctly 1`] = `
+<span
+  className="meta"
+>
+  <span
+    className="badge popular"
+  >
+    popular
+  </span>
+  <span
+    className="badge reliable"
+  >
+    reliable
+  </span>
+</span>
+`;

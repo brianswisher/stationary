@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Tags renders correctly 1`] = `
+<span
+  className="tags"
+>
+  <span
+    className="tag"
+  >
+    a
+  </span>
+  <span
+    className="tag"
+  >
+    b
+  </span>
+</span>
+`;

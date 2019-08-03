@@ -1,0 +1,171 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Stations renders correctly 1`] = `
+<div>
+  <h2
+    className="name"
+  />
+  <p
+    className="description"
+  />
+  <div
+    style={
+      Object {
+        "maxWidth": 688,
+        "padding": 0,
+      }
+    }
+  >
+    <span
+      style={
+        Object {
+          "maxWidth": 147,
+        }
+      }
+    >
+      <img
+        alt="The Element West"
+        className="station"
+        data-index={0}
+        onClick={[Function]}
+        src="https://cdn-profiles.tunein.com/s306935/images/logoq.jpg"
+      />
+    </span>
+    <span
+      style={
+        Object {
+          "maxWidth": 147,
+        }
+      }
+    >
+      <img
+        alt="Latin Hits"
+        className="station"
+        data-index={1}
+        onClick={[Function]}
+        src="http://cdn-profiles.tunein.com/s249995/images/logoq.png"
+      />
+    </span>
+    <span
+      style={
+        Object {
+          "maxWidth": 147,
+        }
+      }
+    >
+      <img
+        alt="KQED"
+        className="station"
+        data-index={2}
+        onClick={[Function]}
+        src="https://cdn-radiotime-logos.tunein.com/s34804q.png"
+      />
+    </span>
+    <span
+      style={
+        Object {
+          "maxWidth": 147,
+        }
+      }
+    >
+      <img
+        alt="Smooth Jazz"
+        className="station"
+        data-index={3}
+        onClick={[Function]}
+        src="http://cdn-radiotime-logos.tunein.com/s249973q.png"
+      />
+    </span>
+    <span
+      style={
+        Object {
+          "maxWidth": 147,
+        }
+      }
+    >
+      <img
+        alt="Classic Rock"
+        className="station"
+        data-index={4}
+        onClick={[Function]}
+        src="https://cdn-profiles.tunein.com/s249994/images/logoq.png"
+      />
+    </span>
+    <span
+      style={
+        Object {
+          "maxWidth": 147,
+        }
+      }
+    >
+      <img
+        alt="Today's Hits"
+        className="station"
+        data-index={5}
+        onClick={[Function]}
+        src="https://cdn-profiles.tunein.com/s242677/images/logoq.png"
+      />
+    </span>
+    <span
+      style={
+        Object {
+          "maxWidth": 147,
+        }
+      }
+    >
+      <img
+        alt="Country Roads"
+        className="station"
+        data-index={6}
+        onClick={[Function]}
+        src="https://cdn-profiles.tunein.com/s224628/images/logoq.png"
+      />
+    </span>
+    <span
+      style={
+        Object {
+          "maxWidth": 147,
+        }
+      }
+    >
+      <img
+        alt="KGO"
+        className="station"
+        data-index={7}
+        onClick={[Function]}
+        src="https://cdn-profiles.tunein.com/s32870/images/logoq.png"
+      />
+    </span>
+    <span
+      style={
+        Object {
+          "maxWidth": 147,
+        }
+      }
+    >
+      <img
+        alt="CNN"
+        className="station"
+        data-index={8}
+        onClick={[Function]}
+        src="https://cdn-profiles.tunein.com/s292162/images/logoq.png"
+      />
+    </span>
+    <span
+      style={
+        Object {
+          "maxWidth": 147,
+        }
+      }
+    >
+      <img
+        alt="BBC"
+        className="station"
+        data-index={9}
+        onClick={[Function]}
+        src="https://cdn-radiotime-logos.tunein.com/s24948q.png"
+      />
+    </span>
+  </div>
+</div>
+`;
