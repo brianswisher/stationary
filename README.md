@@ -1,5 +1,5 @@
 # Stationary
-Source files for brianswisher/stationary
+Source files for brianswisher/stationary/
 
 ## Staged
 [here](http://brianswisher.com/stationary)
