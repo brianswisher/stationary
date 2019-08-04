@@ -1,3 +1,5 @@
+/* global module */
+
 module.exports = {
   transform: {
     "^.+\\.jsx?$": `<rootDir>/jest-preprocess.js`,

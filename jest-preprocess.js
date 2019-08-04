@@ -1,3 +1,5 @@
+/* global module, require */
+
 const babelOptions = {
   presets: ["babel-preset-gatsby"],
 }
