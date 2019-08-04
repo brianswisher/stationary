@@ -2,7 +2,7 @@
 Source files for brianswisher/stationary/
 
 ## Staged
-[here](http://brianswisher.com/stationary) _http://brianswisher.com/stationary_
+http://brianswisher.com/stationary
 
 ### Quick Start
 
