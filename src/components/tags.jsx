@@ -1,12 +1,17 @@
-import React from 'react';
+import React from "react";
 import "./tags.css";
 
-const Tags = (props) => {
+const Tags = props => {
   return (
-    <span className="tags">{
-      props.data && props.data.map(t => <span key={t} className="tag">{t}</span>)
-    }</span>
+    <span className="tags">
+      {props.data &&
+        props.data.map(t => (
+          <span key={t} className="tag">
+            {t}
+          </span>
+        ))}
+    </span>
   );
-}
+};
 
 export default Tags;

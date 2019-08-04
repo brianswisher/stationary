@@ -8,10 +8,7 @@
       "streamUrl": "http://tunein4.streamguys1.com/elmntfree1",
       "reliability": 64,
       "popularity": 3.0,
-      "tags": [
-        "hip hop",
-        "music"
-      ]
+      "tags": ["hip hop", "music"]
     },
     {
       "id": "s249995",
@@ -21,11 +18,7 @@
       "streamUrl": "http://tunein4.streamguys1.com/ltnhtfree1?aw_0_1st.age=34&aw_0_1st.gender=female&aw_0_1st.playerid=RadioTime&aw_0_1st.skey=1548844301",
       "reliability": 34,
       "popularity": 2.7,
-      "tags": [
-        "latin",
-        "pop latino",
-        "music"
-      ]
+      "tags": ["latin", "pop latino", "music"]
     },
     {
       "id": "s34804",
@@ -35,11 +28,7 @@
       "streamUrl": "http://50.31.186.115:80/kqedradio.mp3",
       "reliability": 72,
       "popularity": 4.4,
-      "tags": [
-        "news",
-        "public radio",
-        "current affairs"
-      ]
+      "tags": ["news", "public radio", "current affairs"]
     },
     {
       "id": "s249973",
@@ -49,12 +38,7 @@
       "streamUrl": "http://rfcmedia.streamguys1.com/smoothjazz.mp3?aw_0_1st.age=34&aw_0_1st.gender=female&aw_0_1st.playerid=RadioTime&aw_0_1st.skey=1548844763",
       "reliability": 93,
       "popularity": 3.5,
-      "tags": [
-        "jazz",
-        "chicago",
-        "music",
-        "top"
-      ]
+      "tags": ["jazz", "chicago", "music", "top"]
     },
     {
       "id": "s249994",
@@ -64,10 +48,7 @@
       "streamUrl": "http://rfcmedia.streamguys1.com/classicrock.mp3?aw_0_1st.age=34&aw_0_1st.gender=female&aw_0_1st.playerid=RadioTime&aw_0_1st.skey=1548845334",
       "reliability": 83,
       "popularity": 3.8,
-      "tags": [
-        "classic rock",
-        "music"
-      ]
+      "tags": ["classic rock", "music"]
     },
     {
       "id": "s242677",
@@ -77,11 +58,7 @@
       "streamUrl": "http://rfcmedia.streamguys1.com/MusicPulse.mp3?aw_0_1st.age=34&aw_0_1st.gender=female&aw_0_1st.playerid=RadioTime&aw_0_1st.skey=1548845498",
       "reliability": 98,
       "popularity": 4.6,
-      "tags": [
-        "top hits",
-        "pop",
-        "music"
-      ]
+      "tags": ["top hits", "pop", "music"]
     },
     {
       "id": "s224628",
@@ -91,10 +68,7 @@
       "streamUrl": "http://rfcmedia.streamguys1.com/countryroads.mp3?aw_0_1st.age=34&aw_0_1st.gender=female&aw_0_1st.playerid=RadioTime&aw_0_1st.skey=1548845654",
       "reliability": 86,
       "popularity": 4.0,
-      "tags": [
-        "country hits",
-        "music"
-      ]
+      "tags": ["country hits", "music"]
     },
     {
       "id": "s32870",
@@ -104,9 +78,7 @@
       "streamUrl": "http://18533.live.streamtheworld.com/KGOAM_SC?DIST=TuneIn&TGT=TuneIn&maxServers=2&tdtok=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImtpZCI6ImZTeXA4In0.eyJpc3MiOiJ0aXNydiIsInN1YiI6I",
       "reliability": 76,
       "popularity": 2.6,
-      "tags": [
-        "news"
-      ]
+      "tags": ["news"]
     },
     {
       "id": "s292162",
@@ -116,10 +88,7 @@
       "streamUrl": "http://tunein.streamguys1.com/secure-CNNi?key=c1b737c6f1e88cc38377c749d0d4a4aa3d3976bb91f12ec50ee2867801f52331",
       "reliability": 96,
       "popularity": 4.8,
-      "tags": [
-        "news",
-        "world news"
-      ]
+      "tags": ["news", "world news"]
     },
     {
       "id": "s24948",
@@ -129,10 +98,7 @@
       "streamUrl": "http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-einws",
       "reliability": 96,
       "popularity": 4.7,
-      "tags": [
-        "news",
-        "world news"
-      ]
+      "tags": ["news", "world news"]
     }
   ]
 }

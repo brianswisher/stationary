@@ -37,6 +37,7 @@
     "develop": "gatsby develop",
     "format": "prettier --write src/**/*.{js,jsx}",
     "lint": "eslint \"**/*.js\"",
+    "pretty": "prettier --write \"./src/**/*.{js,jsx,json,ts,tsx}\"",
     "start": "npm run develop",
     "serve": "gatsby serve",
     "test": "npm run lint; jest"
